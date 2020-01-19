@@ -21,7 +21,7 @@ export ARCH=arm
 export SUBARCH=arm
 export KBUILD_BUILD_USER="rituraj"
 export KBUILD_BUILD_HOST="BlackServer"
-export CROSS_COMPILE="/home/kunalkene1797/arm-eabi-6.0/bin/arm-eabi-"
+export CROSS_COMPILE="/home/rituraj/arm-eabi-6.0/bin/arm-eabi-"
 
 # Compilation Scripts Are Below
 compile_kernel ()
