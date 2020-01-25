@@ -30,7 +30,7 @@ echo -e "$White***********************************************"
 echo "         Compiling BlackBox kernel             "
 echo -e "***********************************************$nocol"
 make clean && make mrproper
-make cyanogenmod_sprout_defconfig
+make cyanogenmod_mido_defconfig
 make -j4
 if ! [ -a $ZIMAGE ];
 then
