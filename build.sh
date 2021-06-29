@@ -20,7 +20,7 @@ nocol='\033[0m'         # Default
 export ARCH=arm
 export SUBARCH=arm
 export KBUILD_BUILD_USER="rituraj"
-export KBUILD_BUILD_HOST="Ubuntu"
+export KBUILD_BUILD_HOST="root@kali"
 export CROSS_COMPILE="/home/rituraj/arm-eabi-6.0/bin/arm-eabi-"
 
 # Compilation Scripts Are Below
